@@ -1,0 +1,1 @@
+# Mineracao_de_Texto_na_Web_Coleta_de_Dados
